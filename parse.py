@@ -1,10 +1,10 @@
-'''
+"""
 Project: http://www.kaggle.com/c/allstate-purchase-prediction-challenge
 Ranking: 9th from 1571 teams
 Work Period: 12-may-2014 to 19-may-2014
 Author:  Euclides Fernandes Filho
 email:   euclides5414@gmail.com
-'''
+"""
 ROOT = "./"
 ROOT_SQL = ROOT + "sql/"
 ROOT_SUB = ROOT + "sub/"
